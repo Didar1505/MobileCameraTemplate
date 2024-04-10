@@ -48,7 +48,7 @@ button {
   outline: none;
   position: absolute;
   color: white;
-  display: block;
+  display: none;
   opacity: 1;
   background: transparent;
   border: solid 2px #fff;
