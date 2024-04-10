@@ -46,8 +46,6 @@ body {
 
 button {
   outline: none;
-  position: absolute;
-  color: white;
   display: none;
   opacity: 1;
   background: transparent;
@@ -57,7 +55,6 @@ button {
   background-position: center center;
   background-repeat: no-repeat;
   pointer-events: auto;
-  z-index: 2;
 }
 
 #takePhotoButton {
