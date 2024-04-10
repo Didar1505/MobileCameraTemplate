@@ -61,15 +61,6 @@ body {
     left: 0;
   }
 
-  #switchCameraButton {
-    left: calc(20% - 32px);
-    top: calc(50% - 32px);
-  }
-
-  #toggleFullScreenButton {
-    left: calc(80% - 32px);
-    top: calc(50% - 32px);
-  }
 }
 
 @media screen and (orientation: landscape) {
@@ -87,20 +78,5 @@ body {
     width: 20%;
     height: 100%;
     right: 0;
-  }
-
-  /* for the lefties */
-  #gui_controls.left {
-    left: 0;
-  }
-
-  #switchCameraButton {
-    left: calc(50% - 32px);
-    top: calc(18% - 32px);
-  }
-
-  #toggleFullScreenButton {
-    left: calc(50% - 32px);
-    top: calc(82% - 32px);
   }
 }
